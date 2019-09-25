@@ -3,3 +3,6 @@ Sempre que precisar fazer um commit na master
 Mais uma alteracao
 
 Alterando esse dado no B3
+
+Vamos fazer um merge de B1 com B2
+
