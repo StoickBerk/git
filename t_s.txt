@@ -3,4 +3,9 @@ Ele deveria ter ido com o t_p.txt
 
 Alterando o arquivo para irmos para a segunda branch
 
+<<<<<<< HEAD
 Alterando o mesmo arquivo que foi alterado na segunda branch antes do merge
+=======
+Alterando o arquivo na segunda branch
+Este mesmo arquivo foi alterado por ultimo na master
+>>>>>>> segunda_branch
