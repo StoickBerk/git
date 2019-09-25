@@ -6,3 +6,6 @@ Depois deste commit vamos para a master fazer uma alteracao e vamos para criar
 o B4
 
 Indo para B1
+
+Branch B2 continua
+Faremos merge dele em outra branch
