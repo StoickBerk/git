@@ -1,3 +1,0 @@
-Primeiro arquivo para o segundo commit
-
-Faltou essa linha no arquivo do segundo commit, fazendo o terceiro commit
