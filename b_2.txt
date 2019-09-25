@@ -4,3 +4,5 @@ Alterando arquivos na branch 2
 
 Depois deste commit vamos para a master fazer uma alteracao e vamos para criar
 o B4
+
+Indo para B1
