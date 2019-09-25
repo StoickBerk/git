@@ -1,0 +1,3 @@
+Sempre que precisar fazer um commit na master
+
+Mais uma alteracao

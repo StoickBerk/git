@@ -3,3 +3,5 @@ Segundo arquivo para o primeiro commit.
 Na verdade vamos alterar todos os arquivos do primeiro commit
 
 Alterando este arquivo na primeira branch de dev
+
+Edicao simples

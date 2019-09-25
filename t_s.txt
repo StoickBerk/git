@@ -11,3 +11,5 @@ Este mesmo arquivo foi alterado por ultimo na master
 >>>>>>> segunda_branch
 
 Editando o arquivo na branch segunda_dev
+
+Fazendo uma alteracao no B5_1
