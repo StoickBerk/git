@@ -1,3 +1,6 @@
 Criando o segundo arquivo de desenvolvimento
 
 Ele sera editado em um outra branch
+
+Editando arquivo na master
+Vamos editar o t_s.txt tambem
