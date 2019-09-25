@@ -3,3 +3,5 @@ B3
 Vamos voltar para b1 e depois b2
 
 Estamos trabalhando no B3
+
+Ainda trabalahndo no B3 antes de trazer (merge) os dados da master
