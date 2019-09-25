@@ -1,1 +1,4 @@
 B1
+
+Branch 1 criada
+Commitar e ir para master, alterar e criar a B2 
