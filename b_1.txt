@@ -1,4 +1,6 @@
 B1
 
 Branch 1 criada
-Commitar e ir para master, alterar e criar a B2 
+Commitar e ir para master, alterar e criar a B2
+
+Vindo da B3 
