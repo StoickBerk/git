@@ -1,1 +1,12 @@
 B1
+
+Branch 1 criada
+Commitar e ir para master, alterar e criar a B2
+
+Vindo da B3
+
+Se preparando para recer b1
+
+Vamos recerber b2 agora
+
+Vamos trabalhar com os dados de B1 e B2 agora 
