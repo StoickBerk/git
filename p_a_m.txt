@@ -1,3 +1,5 @@
 Primeiro arquivo apos o merge com a primeira branch.
 
 Esse arquivo foi criado no master
+
+Editando o arquivo
