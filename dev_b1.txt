@@ -1,4 +1,4 @@
 Criando um arquivo de desenvolvimento
 
 Trabalhando no desenvolvimento
-Tambem vamos editar o arquivos seg_p.txtx
+Tambem vamos editar o arquivos seg_p.txt
