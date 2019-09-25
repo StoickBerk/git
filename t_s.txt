@@ -2,3 +2,6 @@ Eu esqueci deste arquivo
 Ele deveria ter ido com o t_p.txt
 
 Alterando o arquivo para irmos para a segunda branch
+
+Alterando o arquivo na segunda branch
+Este mesmo arquivo foi alterado por ultimo na master
