@@ -7,3 +7,5 @@ Alterando esse dado no B3
 Vamos fazer um merge de B1 com B2
 
 Alterando a master para recerber B4
+
+Finalizando
